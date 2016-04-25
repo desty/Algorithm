@@ -3,7 +3,6 @@
 ## Site
 http://visualgo.net/
 http://learn.code.org/
-https://www.hackerrank.com/
 https://uva.onlinejudge.org/
 http://www.spoj.com/
 https://icpc.baylor.edu/
